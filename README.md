@@ -1,2 +1,2 @@
 # GymManagementSystem
-Gym Management System
+Gym Management System is a dbms project.
