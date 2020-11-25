@@ -2,7 +2,7 @@
 Gym Management System is a dbms project.
 
 
-LIST OF TABLES:
+## LIST OF TABLES:
 
 
 MEMBER(First_ Name(primary key), Last_Name, Age , Gender, Phone(Primary key), Package_type, Batch_no(PK)) 
