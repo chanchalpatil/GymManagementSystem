@@ -1,5 +1,5 @@
 # GymManagementSystem
-Gym Management System is a dbms project.
+Gym Management System is a web application that facilitates the data storage, data maintenance and its retrieval for the gym in a unique manner. Only the Owner of the gym has the privilege to access any database and make the required changes, if necessary.It is an user-friendly database management system and admistrator dashboard that requires minimal user training.
 
 ## FEATURES
 Gym Management System allows the Gym owner to:
